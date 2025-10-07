@@ -18,16 +18,16 @@ This project is a desktop MP3 player with a built in playlist management system.
 
 # Current Finished Product Images:
 
-### Main Menu
+### Main Menu:
 ![MP3 Player+Playlists – Main Menu](ReadMe_File_Images/MP3_Player+Playlists_Main_Menu.png)
 
-### Song Loaded - Not Added To Playlist
+### Song Loaded - Not Added To Playlist:
 ![MP3 Player+Playlists – Main Menu With Loaded Song](ReadMe_File_Images/MP3_Player+Playlists_Loaded_Song.png)
 
-### New Playlist Creation
+### New Playlist Creation:
 ![MP3 Player+Playlists – New Playlist Creation Menu](ReadMe_File_Images/MP3_Player+Playlists_New_Playlist.png)
 
-### Playlist With Songs
+### Playlist With Songs:
 ![MP3 Player+Playlists – Playlist With Songs](ReadMe_File_Images/MP3_Player+Playlists_Playlist_With_Songs.png)
 
 ## Technologies Used:
